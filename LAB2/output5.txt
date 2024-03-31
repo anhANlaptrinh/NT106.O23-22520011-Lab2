@@ -1,0 +1,36 @@
+Tên phim: The Matrix
+Giá vé: $100,000.00
+Tổng số lượng vé: 250
+Số lượng vé bán ra: 200
+Số lượng vé tồn: 50
+Tỉ lệ vé bán ra: 80.00%
+Doanh thu: $20,000,000.00
+Xếp hạng doanh thu: 1
+
+Tên phim: Inception
+Giá vé: $120,000.00
+Tổng số lượng vé: 150
+Số lượng vé bán ra: 120
+Số lượng vé tồn: 30
+Tỉ lệ vé bán ra: 80.00%
+Doanh thu: $14,400,000.00
+Xếp hạng doanh thu: 2
+
+Tên phim: Minion
+Giá vé: $80,000.00
+Tổng số lượng vé: 180
+Số lượng vé bán ra: 150
+Số lượng vé tồn: 30
+Tỉ lệ vé bán ra: 83.33%
+Doanh thu: $12,000,000.00
+Xếp hạng doanh thu: 3
+
+Tên phim: StarWar
+Giá vé: $50,000.00
+Tổng số lượng vé: 100
+Số lượng vé bán ra: 80
+Số lượng vé tồn: 20
+Tỉ lệ vé bán ra: 80.00%
+Doanh thu: $4,000,000.00
+Xếp hạng doanh thu: 4
+

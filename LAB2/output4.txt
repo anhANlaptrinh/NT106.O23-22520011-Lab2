@@ -1,0 +1,1 @@
+[{"Mssv":"22520011","HoTen":"\u0110\u1ED7 Hu\u1EF3nh An","Sdt":"0934972133","Diem1":10,"Diem2":9,"Diem3":9,"dtb":9.333333},{"Mssv":"22521234","HoTen":"H\u1EA3i Nguy\u00EAn","Sdt":"0935285939","Diem1":10,"Diem2":1,"Diem3":1,"dtb":4}]
